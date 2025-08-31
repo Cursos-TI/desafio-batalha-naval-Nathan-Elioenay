@@ -54,27 +54,27 @@ int main(){
 
       //NAVIO NA VERTICAL
 
-         tabuleiro[5][7] = 3;
-         tabuleiro[6][7] = 3;
-         tabuleiro[7][7] = 3;
+         tabuleiro[5][7] = '3';
+         tabuleiro[6][7] = '3';
+         tabuleiro[7][7] = '3';
 
       //NAVIO NA HORIZONTAL
 
-         tabuleiro[4][2] = 3;
-         tabuleiro[4][3] = 3;
-         tabuleiro[4][4] = 3;
+         tabuleiro[4][2] = '3';
+         tabuleiro[4][3] = '3';
+         tabuleiro[4][4] = '3';
 
       //NAVIOS NA DIAGONAL 1
 
-          tabuleiro[0][0] = 3;
-          tabuleiro[1][1] = 3;
-          tabuleiro[2][2] = 3;
+          tabuleiro[0][0] = '3';
+          tabuleiro[1][1] = '3';
+          tabuleiro[2][2] = '3';
 
       //NAVIO NA DIAGONAL 2
 
-          tabuleiro[0][9] = 3;
-          tabuleiro[1][9-1] = 3;
-          tabuleiro[2][9-2] = 3;
+          tabuleiro[0][9] = '3';
+          tabuleiro[1][9-1] = '3';
+          tabuleiro[2][9-2] = '3';
 
 
       // COLUNA DO TABULEIRO
